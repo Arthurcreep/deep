@@ -3,7 +3,8 @@
     "bybit-api": "^3.10.23",
     "dotenv": "^16.4.5",
     "grammy": "^1.31.0",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "ws": "^8.18.0"
   },
   "name": "workerbot",
   "version": "1.0.0",
